@@ -84,3 +84,29 @@ a{
 .introbutton:hover{
     background-color: purple;
 }
+
+.about{
+    width: 100%;
+    padding: 50px 0px;
+}
+
+.aboutme{
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.aboutme-content h3{
+    font-size: 60px;
+
+}
+.aboutme-content p{
+    font-size: 30px;
+}
+
+.aboutme-image img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
