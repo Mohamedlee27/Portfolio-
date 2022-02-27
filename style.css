@@ -110,3 +110,8 @@ a{
     height: 500px;
     border-radius: 50%;
 }
+
+.project{
+    width: 100%;
+    padding: 50px 0px;
+}
