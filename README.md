@@ -1,4 +1,4 @@
-# Porfolio Landing Page
+# Portfolio Landing Page
 A standalone web page
 
 ## Author
